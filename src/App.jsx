@@ -100,8 +100,7 @@ function App() {
           </div>
 
           <div className="user-info">
-            <div className="user-avatar">
-              <img src="https://store-images.s-microsoft.com/image/apps.4784.13634052595610511.c45457c9-b4af-46b0-8e61-8d7c0aec3f56.3d483847-81a6-4078-8f83-a35c5c38ee92" alt="User Avatar" className="avatar-img" /> 
+            <div className="user-avatar">M
             </div>
             <div className="user-details">
               <div className="username">memorymusic...</div>
