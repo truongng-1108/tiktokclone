@@ -103,7 +103,7 @@ function App() {
             <div className="user-avatar">M
             </div>
             <div className="user-details">
-              <div className="username">memorymusic...</div>
+              <div className="username">@memorymusic...</div>
               <div className="user-balance">
                 <img src={COIN_IMAGE} alt="coin" className="coin-img-small" />
                 <span>2403</span>
